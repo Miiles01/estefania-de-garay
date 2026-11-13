@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://miiles01.github.io/estefania-de-garay/sitemap.xml
+Sitemap: https://darkcyan-ferret-873790.hostingersite.com/sitemap.xml
